@@ -1,0 +1,97 @@
+
+* {
+    box-sizing: border-box;
+ /* border: 1px solid red; */
+}
+
+
+body { 
+
+    background-color: #ffffff;
+    color: #e88c7d;
+    
+}
+header,
+section, 
+footer {
+    padding: 20px;
+}
+.title {
+    font-size: 40px;
+    text-decoration: none;
+}
+h1 {
+    text-align: left;
+    
+    color: #00241b ;
+    font-family: "Dancing script" "sans-serif";
+    font-style: initial;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-bottom: 5px dotted #00241b;
+    
+    
+}
+header h1 {
+    text-align: center;
+
+}
+
+h2{
+    color: #00241b;
+    font-style: normal;
+    font-family: "Noto Sans" "sans-serif";
+    font-weight: bold;
+    font-size: 1.875em; /* 30px/16=1.875em */
+    border-bottom: 4% solid #00241b;
+
+}
+h3 {
+    color: #00241b;
+    font-style: normal;
+    font-family: "Noto Sans" "sans-serif";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+p {
+    color: #a01a58;
+    font-family: "sans-serif";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 2;
+    width: 400px;
+    margin: 15px 0;
+}
+
+ol {
+    color: #00241b;
+    font-family: "Noto Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20;
+    margin: 15px 0;
+}
+
+ul {
+    color: #00241b;
+    font-family: "Noto Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20;
+    margin: 15px 0;
+    
+}
+
+a {
+    color: #461220;
+    text-decoration: none; 
+    font-size: 14px; 
+    
+    
+}
+a:hover {
+    text-decoration: underline;
+
+}
